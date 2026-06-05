@@ -142,21 +142,6 @@ Build command:
 ```bash
 npm run build
 ```
-
----
-
-# 💡 Future Improvements
-
-* Firebase Authentication
-* Cloud database sync
-* Mobile app version
-* Custom pet accessories
-* Sound effects
-* Real daily streak logic
-* Leaderboards
-* User profiles
-
-
 # 📄 License
 
 This project is open source and available under the MIT License.
